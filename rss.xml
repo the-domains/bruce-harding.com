@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bruce Harding Ltd. HK]]></title>
+        <description><![CDATA[Bruce Harding Ltd. HK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 22:30:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3fca2ba-a49f-4bd8-af15-5f059dec78bf.jpg">]]></description>
+            <link>undefined0843b3b0-75ed-41a0-bef6-72d9725d405a/index.html</link>
+            <guid isPermaLink="false">0843b3b0-75ed-41a0-bef6-72d9725d405a</guid>
+            <pubDate>Fri, 04 Mar 2016 22:30:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
