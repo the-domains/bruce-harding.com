@@ -1,0 +1,28 @@
+name: Bruce Harding Ltd. HK
+favicon: null
+layout_spectrum: 0.6560814680997282
+typography_spectrum: 0.4890603015664965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.766234943177551
+  lightness: 0.27611688734032214
+  saturation: 0.5312534486874938
+  rhythmicContrast: 0.6082430691458285
+purpose: []
