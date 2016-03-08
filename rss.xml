@@ -4,21 +4,21 @@
         <description><![CDATA[Bruce Harding Ltd. HK]]></description>
         <link>https://thegrid.ai/bruce-harding.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 08:04:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bruce-harding.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3fca2ba-a49f-4bd8-af15-5f059dec78bf.jpg">]]></description>
+            <link>https://thegrid.ai/bruce-harding.com/0843b3b0-75ed-41a0-bef6-72d9725d405a/index.html</link>
+            <guid isPermaLink="false">0843b3b0-75ed-41a0-bef6-72d9725d405a</guid>
+            <pubDate>Tue, 08 Mar 2016 08:03:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5951a5c6-4329-4d36-8490-9f1ad20ab38a.jpg">]]></description>
             <link>https://thegrid.ai/bruce-harding.com/4d3be973-eb51-46e2-9d99-6d4526a3605f/index.html</link>
             <guid isPermaLink="false">4d3be973-eb51-46e2-9d99-6d4526a3605f</guid>
             <pubDate>Sat, 05 Mar 2016 01:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3fca2ba-a49f-4bd8-af15-5f059dec78bf.jpg">]]></description>
-            <link>https://thegrid.ai/bruce-harding.com/0843b3b0-75ed-41a0-bef6-72d9725d405a/index.html</link>
-            <guid isPermaLink="false">0843b3b0-75ed-41a0-bef6-72d9725d405a</guid>
-            <pubDate>Fri, 04 Mar 2016 22:30:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
