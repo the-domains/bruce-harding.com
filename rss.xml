@@ -4,7 +4,7 @@
         <description><![CDATA[Bruce Harding Ltd. HK]]></description>
         <link>https://thegrid.ai/bruce-harding.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 08:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 08:47:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bruce-harding.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/bruce-harding.com/4d3be973-eb51-46e2-9d99-6d4526a3605f/index.html</link>
             <guid isPermaLink="false">4d3be973-eb51-46e2-9d99-6d4526a3605f</guid>
             <pubDate>Sat, 05 Mar 2016 01:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/803f6e30-4889-46ec-9368-b08781f3adf2.jpg">]]></description>
+            <link>https://thegrid.ai/bruce-harding.com/e9f797ee-d919-41d4-a29c-15400037c071/index.html</link>
+            <guid isPermaLink="false">e9f797ee-d919-41d4-a29c-15400037c071</guid>
+            <pubDate>Tue, 08 Mar 2016 08:46:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
